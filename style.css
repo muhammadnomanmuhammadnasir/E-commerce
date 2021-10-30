@@ -1,0 +1,43 @@
+.navbar{
+    background-color: #e53935 !important;
+}
+
+.nav-link{
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.fa-cart-plus,.fa-user-circle-o{
+    font-size: 32px !important;
+}
+
+.fa-truck,.fa-bandcamp,.fa-thumbs-o-up
+{
+    font-size: 48px !important;
+    margin-right: 10px;
+    color: royalblue;
+    
+}
+
+h3{
+    color: royalblue;
+}
+.card1,.card2,.card3{
+    display: flex;
+    height: 100px;
+    width: 300px;
+    background-color: white;
+    box-shadow: 2px 3px 4px grey;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+
+}
+
+.mainCard{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
